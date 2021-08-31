@@ -1,0 +1,5 @@
+[
+  { "id": "id-1", "text": "Сделать задание", "completed": true },
+  { "id": "id-2", "text": "Сходить в магазин", "completed": false },
+  { "id": "id-3", "text": "Захватить мир", "completed": false }
+]
